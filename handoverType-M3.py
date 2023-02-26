@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-filename='CHICAGOAIRPORT-M1-1S-HO'
+filename='CHICAGOAIRPORT-M2-1S-HO'
 
 datapath = path.join(DATA_DIR,"HandOver\\"+filename+".csv")
 tablepath = path.join(DATA_DIR,"HandOver\\"+filename+"-DurationTable.csv")
@@ -98,11 +98,10 @@ handover_list=pd.DataFrame(handover_list)
 handover_list.columns=['index','handoverType']
 handover_list.to_csv('./handover_list.csv', index=True)
 
-
+tablepd=pd.concat([handover_list['handoverType'], durationTime])
 
 if (len(handover_list)==len(durationTime)):
-    tablepd = pd.concat([handover_list['handoverType'], durationTime],axis=1)
-    tablepd.to_csv(tablepath, index=False)
+    tablepd.to_csv(tablepath, index=True)
     print(tablepath+": Table is completed")
 else:
     print("#haveoverType:" + str(len(handover_list))+ ";    #duration:" +str(len(durationTime)))
