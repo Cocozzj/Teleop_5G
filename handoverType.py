@@ -10,6 +10,7 @@ tablepath = path.join(DATA_DIR,"HandOver\\"+filename+"-DurationTable.csv")
 data = pd.read_csv(datapath)
 
 # =====================================================================================
+# Loading data
 signalInfo = data[['LTE KPI PCell Serving PCI','LTE KPI PCell Serving Band','5G KPI PCell RF Serving PCI','5G KPI PCell RF Band']]
 signalInfo.columns=['4GPCI','4GBand','5GPCI','5GBand']
 signalInfo=signalInfo.dropna(axis=0,how='all')
@@ -22,6 +23,7 @@ durationInfo.columns=['P','T','Q','U','V']
 durationInfo=durationInfo.dropna(axis=0,how='all')
 
 # =====================================================================================
+# Integrate duration time
 durationTime=[]
 raw_time=[]
 for index in range(len(durationInfo)-1):
@@ -49,14 +51,13 @@ for index in range(len(durationInfo)-1):
         nr_time = process_data.iloc[0, 4] if np.isnan(process_data.iloc[0, 3]) else process_data.iloc[0, 3]
 
         raw_time.append(process_data.iloc[0])
-        durationTime.append([radio_time,lte_time,nr_time])
+        durationTime.append([process_data.iloc[0].name,radio_time,lte_time,nr_time])
 
 raw_time=pd.DataFrame(raw_time)
-raw_time.to_csv('./duration.csv', index=True)
-durationTime=pd.DataFrame(durationTime,columns=['Radio Duration','4G Configuration Duration','5G Configuration Duration'])
-
+durationTime=pd.DataFrame(durationTime,columns=['index','Radio Duration','4G Configuration Duration','5G Configuration Duration'])
+durationTime.to_csv('./duration.csv',index=False)
 # =====================================================================================
-
+# Integrate band info
 def techIndentify(row):
     if row['4GPCI']!=-1 or row['4GBand']!='None':
         if row['5GPCI']==-1 and row['5GBand']=='None':
@@ -96,10 +97,11 @@ for index in range(len(signalInfo)-1):
 
 handover_list=pd.DataFrame(handover_list)
 handover_list.columns=['index','handoverType']
-handover_list.to_csv('./handover_list.csv', index=True)
+handover_list.to_csv('./handover_list.csv',index=False)
 
 
-
+# =====================================================================================
+# Integrate two table
 if (len(handover_list)==len(durationTime)):
     tablepd = pd.concat([handover_list['handoverType'], durationTime],axis=1)
     tablepd.to_csv(tablepath, index=False)
