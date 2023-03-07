@@ -1,0 +1,739 @@
+4GEvents,5GEvents,5GType,4GPcellChange,4GOldPCI,4GNewPCI
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,459.0,459.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Unknown,459.0,431.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,431.0,79.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,79.0,431.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,431.0,102.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,102.0,102.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,102.0,102.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,102.0,323.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,323.0,323.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,323.0,323.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,323.0,323.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,323.0,323.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,323.0,323.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,323.0,160.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,160.0,160.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,160.0,315.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,315.0,6.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,6.0,6.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,6.0,29.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,29.0,29.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,29.0,211.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,211.0,211.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,211.0,318.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,318.0,263.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,263.0,12.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,12.0,409.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,409.0,224.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,224.0,298.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,298.0,298.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,298.0,474.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,474.0,474.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,474.0,265.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,265.0,265.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,127.0,127.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,127.0,480.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,480.0,480.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,480.0,495.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,495.0,495.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,495.0,49.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,49.0,495.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,495.0,49.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,49.0,344.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,344.0,344.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,344.0,34.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,34.0,34.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,34.0,109.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,109.0,109.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,109.0,34.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,34.0,34.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,34.0,34.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,34.0,476.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,476.0,97.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,97.0,97.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,97.0,363.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,363.0,363.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,363.0,476.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,476.0,476.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,476.0,363.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,363.0,363.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,363.0,363.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,363.0,363.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,363.0,37.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,37.0,37.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,37.0,343.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,343.0,13.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,13.0,13.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,13.0,335.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,335.0,335.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,335.0,335.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,335.0,335.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,335.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,402.0,402.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,312.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,312.0,312.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,19.0,19.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,19.0,402.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,402.0,416.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,416.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,19.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,19.0,19.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,19.0,312.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,312.0,312.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,312.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,19.0,19.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,19.0,416.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,416.0,416.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,416.0,416.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,416.0,173.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,173.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,173.0,173.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,173.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,173.0,173.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,173.0,312.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,312.0,173.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,173.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,173.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,173.0,173.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,173.0,382.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,416.0,37.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,37.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,402.0,402.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,402.0,402.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,485.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,485.0,485.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,485.0,13.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,13.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,293.0,312.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,312.0,293.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,20.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,20.0,20.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,20.0,293.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,485.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,485.0,485.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,485.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,293.0,293.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,293.0,293.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,293.0,312.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,19.0,19.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,19.0,312.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,312.0,19.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,19.0,416.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,416.0,402.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,402.0,402.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,173.0,416.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,416.0,416.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,416.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,173.0,173.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,173.0,416.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,416.0,416.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,416.0,416.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,416.0,173.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,173.0,312.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,312.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,402.0,402.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,402.0,173.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,173.0,312.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,312.0,312.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,312.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,19.0,19.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,19.0,402.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,402.0,19.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,19.0,19.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,19.0,19.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,19.0,209.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,209.0,209.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,209.0,323.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,323.0,323.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,323.0,382.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,382.0,382.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,382.0,323.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,323.0,323.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,323.0,382.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,382.0,382.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,382.0,336.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,336.0,244.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,244.0,244.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,244.0,244.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,244.0,393.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,393.0,232.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,232.0,419.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,419.0,238.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,238.0,419.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,419.0,419.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,419.0,396.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,396.0,261.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,261.0,29.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,29.0,29.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,484.0,484.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,484.0,484.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,484.0,484.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,484.0,157.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,157.0,157.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,157.0,157.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,157.0,157.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,157.0,157.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,157.0,157.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,157.0,157.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,157.0,157.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Inter-MeNB PCell Change,157.0,462.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,462.0,462.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,462.0,462.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,462.0,94.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,94.0,94.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,94.0,452.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,452.0,452.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,452.0,417.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,417.0,386.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,NR SCG Modification Attempt,NR SCG Modification[NR to NR],Intra-MeNB PCell Change,386.0,168.0
+Handover Success,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,168.0,168.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,168.0,168.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+Handover Attempt,None,None,None,168.0,184.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,NR SCG Addition Attempt	 ,NR SCG Addition[LTE to NR],None,184.0,184.0
+Handover Success,NR SCG Addition Success	 ,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+None,NR SCG Modification Attempt,NR SCG Modification[NR to NR],None,-1,-1.0
+None,NR SCG Modification Success,None,None,-1,-1.0
+Handover Attempt,None,None,None,184.0,184.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,184.0,295.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,295.0,296.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,296.0,333.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,333.0,294.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,294.0,294.0
+Handover Success,None,None,None,-1,-1.0
+Handover Attempt,None,None,None,294.0,151.0
+Handover Success,None,None,None,-1,-1.0
