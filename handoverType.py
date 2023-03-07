@@ -103,10 +103,6 @@ def event_dur_each(dataframe):
     #         print("ERROR: P!=T")
     #     lte_time=dataframe[~dataframe[LTE_CONFIGURATION_TIME].isna()][LTE_CONFIGURATION_TIME].values[0]
 
-    
-
-       
-
 for idk in range(2,len(eventInfo),2):
     pre=eventInfo.iloc[idk-2].name
     next=eventInfo.iloc[idk].name
@@ -116,10 +112,7 @@ for idk in range(2,len(eventInfo),2):
     cut_pd=event_duration_info.iloc[index_pre:index_next]
     event_dur_each(cut_pd)
 
-
-    
 # =====================================================================================
-<<<<<<< HEAD
 # Integrate duration time
 # durationTime=[]
 # raw_time=[]
@@ -232,54 +225,54 @@ for idk in range(2,len(eventInfo),2):
 #     print("#haveoverType:" + str(len(handover_list))+ ";    #duration:" +str(len(durationTime)))
 
 =======
-# Integrate band info
-def techIndentify(row):
-    if row['4GPCI']!=-1 or row['4GBand']!='None':
-        if row['5GPCI']==-1 and row['5GBand']=='None':
-            type = '4G'
-        else:
-            type = '5GNSA'
-    elif row['4GPCI']==-1 and row['4GBand']=='None' and (row['5GPCI']!=-1 or row['5GBand']!='None'):
-        type ='5GSA'
+# # Integrate band info
+# def techIndentify(row):
+#     if row['4GPCI']!=-1 or row['4GBand']!='None':
+#         if row['5GPCI']==-1 and row['5GBand']=='None':
+#             type = '4G'
+#         else:
+#             type = '5GNSA'
+#     elif row['4GPCI']==-1 and row['4GBand']=='None' and (row['5GPCI']!=-1 or row['5GBand']!='None'):
+#         type ='5GSA'
 
-    return type
+#     return type
 
-handover_list=[]
-for index in range(len(signalInfo)-1):
-    row = signalInfo.iloc[index]
-    next = signalInfo.iloc[index+1]
-    handoverType=''
-    if techIndentify(row) =='4G':
-        if techIndentify(next) == '4G' and (row['4GPCI']!=next['4GPCI'] or row['4GBand']!=next['4GBand']):
-            handoverType="4G_4G"
-        elif techIndentify(next) == '5GNSA':
-            handoverType="4G_5GNSA"
-    elif techIndentify(row) =='5GSA':
-        if techIndentify(next) == '5GSA' and (row['5GPCI']!=next['5GPCI'] or row['5GBand']!=next['5GBand']):
-            handoverType="5GSA_5GSA"
-    elif techIndentify(row) =='5GNSA':
-        if techIndentify(next) == '4G':
-            handoverType="5GNSA_4G"
-        elif techIndentify(next) == '5GNSA':
-            if row['4GPCI']==next['4GPCI'] and row['4GBand']==next['4GBand'] and (row['5GPCI']!=next['5GPCI'] or row['5GBand']!=next['5GBand']):
-                handoverType = "5GNSA_5Gchange"
-            elif row['5GPCI']==next['5GPCI'] and row['5GBand']==next['5GBand'] and (row['4GPCI']!=next['4GPCI'] or row['4GBand']!=next['4GBand']):
-                handoverType = "5GNSA_4Gchange"
-            elif (row['5GPCI']!=next['5GPCI'] or row['5GBand']!=next['5GBand']) and (row['4GPCI']!=next['4GPCI'] or row['4GBand']!=next['4GBand']):
-                handoverType = "5GNSA_4G5Gchange"
-    if handoverType!="":
-        handover_list.append((row.name,handoverType))
+# handover_list=[]
+# for index in range(len(signalInfo)-1):
+#     row = signalInfo.iloc[index]
+#     next = signalInfo.iloc[index+1]
+#     handoverType=''
+#     if techIndentify(row) =='4G':
+#         if techIndentify(next) == '4G' and (row['4GPCI']!=next['4GPCI'] or row['4GBand']!=next['4GBand']):
+#             handoverType="4G_4G"
+#         elif techIndentify(next) == '5GNSA':
+#             handoverType="4G_5GNSA"
+#     elif techIndentify(row) =='5GSA':
+#         if techIndentify(next) == '5GSA' and (row['5GPCI']!=next['5GPCI'] or row['5GBand']!=next['5GBand']):
+#             handoverType="5GSA_5GSA"
+#     elif techIndentify(row) =='5GNSA':
+#         if techIndentify(next) == '4G':
+#             handoverType="5GNSA_4G"
+#         elif techIndentify(next) == '5GNSA':
+#             if row['4GPCI']==next['4GPCI'] and row['4GBand']==next['4GBand'] and (row['5GPCI']!=next['5GPCI'] or row['5GBand']!=next['5GBand']):
+#                 handoverType = "5GNSA_5Gchange"
+#             elif row['5GPCI']==next['5GPCI'] and row['5GBand']==next['5GBand'] and (row['4GPCI']!=next['4GPCI'] or row['4GBand']!=next['4GBand']):
+#                 handoverType = "5GNSA_4Gchange"
+#             elif (row['5GPCI']!=next['5GPCI'] or row['5GBand']!=next['5GBand']) and (row['4GPCI']!=next['4GPCI'] or row['4GBand']!=next['4GBand']):
+#                 handoverType = "5GNSA_4G5Gchange"
+#     if handoverType!="":
+#         handover_list.append((row.name,handoverType))
 
-handover_list=pd.DataFrame(handover_list)
-handover_list.columns=['index','handoverType']
-handover_list.to_csv('./handover_list.csv',index=False)
+# handover_list=pd.DataFrame(handover_list)
+# handover_list.columns=['index','handoverType']
+# handover_list.to_csv('./handover_list.csv',index=False)
 
-# =====================================================================================
-# Integrate two table
-if (len(handover_list)==len(durationTime)):
-    tablepd = pd.concat([handover_list['handoverType'], durationTime],axis=1)
-    tablepd.to_csv(tablepath, index=False)
-    print(tablepath+": Table is completed")
-else:
-    print("#haveoverType:" + str(len(handover_list))+ ";    #duration:" +str(len(durationTime)))
->>>>>>> f5ef09a (Updated)
+# # =====================================================================================
+# # Integrate two table
+# if (len(handover_list)==len(durationTime)):
+#     tablepd = pd.concat([handover_list['handoverType'], durationTime],axis=1)
+#     tablepd.to_csv(tablepath, index=False)
+#     print(tablepath+": Table is completed")
+# else:
+#     print("#haveoverType:" + str(len(handover_list))+ ";    #duration:" +str(len(durationTime)))
+# >>>>>>> f5ef09a (Updated)
