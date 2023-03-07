@@ -41,7 +41,6 @@ high_band_c_idx = 10
 # hex list
 hex_col_list = ['#4078c0', '#6cc644', '#bd2c00', '#c9510c', '#6e5494', '#ffff00', '#87005f']
 
-
 def remove_nan(arr):
     return arr[~np.isnan(arr)]
 

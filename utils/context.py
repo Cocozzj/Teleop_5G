@@ -7,4 +7,5 @@ DATA_DIR = path.join(PROJ_DIR, 'raw-data')
 DATA_PROCESS_DIR = path.join(PROJ_DIR, 'process-data')
 PLOT_DIR = path.join(PROJ_DIR, 'plots')
 UTILS_DIR = path.join(PROJ_DIR, 'utils')
+
 sys.path.append(PROJ_DIR)

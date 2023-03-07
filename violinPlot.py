@@ -44,7 +44,7 @@ if __name__ == '__main__':
     ax.grid(linestyle='--', axis='y')
     plt.title('Download Speeds',fontsize=25)
     plt.tight_layout()
+
     plt.savefig(path.join(PLOT_DIR, 'violin-DL-general.png'))
     plt.close()
-
     # =====================================================================================

@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 fullDataset = pd.read_csv('../Data/full-dataset.csv')
-
 # =====================================================================================
 smallCell1PCILabel = '5G KPI SCell[1] RF Serving PCI'
 smallCell2PCILabel = '5G KPI SCell[2] RF Serving PCI'
@@ -20,6 +19,7 @@ abstractTechLabel = 'Abstract-Tech-Label'
 tputUpLabel = 'Total UL Tput (Mbps)'
 tputDlLabel = 'Total DL Tput (Mbps)'
 signalLabels = ['5G KPI PCell RF Serving SS-RSRP [dBm]', '5G KPI PCell RF Serving SS-RSRQ [dB]', '5G KPI PCell RF Serving SS-SINR [dB]','5G KPI PCell RF CQI']
+
 #fullDataset = fullDataset[fullDataset['5G Estimate'] == True]
 print('Dataset Size {}'.format(len(fullDataset)))
 bandsSeen = fullDataset[bandLabel].unique()
@@ -30,9 +30,10 @@ radioRelationshipsSeen.extend(list(fullDataset[radioRelationshipDLLabel].unique(
 #technologiesSeen = fullDataset[technologyLabel].unique()[:-1]
 technologiesSeen = fullDataset[fullDataset[abstractTechLabel].notna()]
 technologiesSeen = technologiesSeen[abstractTechLabel].unique()
+downloadDataSet = fullDataset[fullDataset['Direction'] == 'DL']
 uploadDataSet = fullDataset[fullDataset['Direction'] == 'UP']
 uploadDataSet = uploadDataSet[uploadDataSet[abstractTechLabel] != 'NO SERVICE']
-downloadDataSet = fullDataset[fullDataset['Direction'] == 'DL']
+
 # ======================================================================================
 
 # Graph tpu, direction

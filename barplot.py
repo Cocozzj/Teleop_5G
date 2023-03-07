@@ -41,6 +41,7 @@ plt.legend(loc='upper center', fontsize=20,bbox_to_anchor=(0,1,1,0.15),ncol=len(
 plt.title('Urban Coverage Ratio',fontsize=25, y=1.15)
 plt.grid(linestyle='--', axis='y')
 plt.tight_layout()
+
 #plt.show()
 plt.savefig(path.join(PLOT_DIR, 'urban_UL_carrierRatio.png'))
 plt.close()
