@@ -1,9 +1,0 @@
-[Count]
-Cnt=1
-[Index 0]
-Caption=[Smart Phone]GPS_Lon,[Smart Phone]GPS_Lat,[Smart Phone]Estimated accuracy,[Smart Phone]Speed,[Event]Technology,[Event]LTE Events,[Event]5G-NR Events,[LTE Signaling Message]Source PCI,[LTE Signaling Message]Target PCI,[LTE Signaling Message]Band Type,[LTE Signaling Message]Result,[LTE Signaling Message]HO Type,[LTE Signaling Message]Duration,[Qualcomm Lte/LteAdv]Handover Latency(Chipset-Based),[5G Signaling Message]NR SCG Mobility Type,[5G Signaling Message]MeNB PCell Change Type,[5G Signaling Message]Duration,[5G Signaling Message]Duration,[Qualcomm 5G-NR]Handover Latency[LTE to NR],[Qualcomm 5G-NR]Handover Latency[NR to NR],[]Duration,[]Source to Target NR-ARFCN/PCI,[LTE KPI]PCell Serving PCI,[LTE KPI]PCell Serving Band,[5G KPI]Serving PCI,[5G KPI]Band,[5G KPI]PDSCH Throughput,[5G KPI]PUSCH Throughput,[LTE KPI]PDSCH Throughput,[LTE KPI]PUSCH Throughput,[Smart Phone]DL Throughput,[Smart Phone]UL Throughput
-Filter Code=T
-Filter String=SMANDAGIGL;;SMANDAGIGLA;;SMANDAGIEA;;SMANDAGISPD;;CMEVENTTECH;;LTEEVENTS;;NREVENTS;;LTESIGHSITRSPCI;;LTESIGHSITRTPCI;;LTESIGHSITRBT;;LTESIGHSITRRS;;LTESIGHSITRHT;;LTESIGHSITRD;;LTEQCRAPROLKHLC;;5GNRRCHOSTSHT;;5GNRRCHOMENBMRL;;5GNRRCHOSTDU;;5GNRRCHOSTNDU;;QC5GNRMCLATLTN;;QC5GNRMCLATNTN;;5GNRMGMADU;;5GNRMGMAITRAFSTT;;LTEKPISPCI;;LTEKPISBAND;;5GKPIPSERVING;;5GKPIPBAND;;5GKPITTTOTALPDTHP;;5GKPITTTOTALPUTHP;;LTEKPIPDSCHTHR;;LTEKPIPUSCHTHR;;SMTHPRXNTHP;;SMTHPTXNTHP
-Filter Type=0
-Filter Group=1531525052
-Filter Title=wei_handover_v2

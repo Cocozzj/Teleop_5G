@@ -26,7 +26,7 @@ plt.title('Highway Coverage Ratio',fontsize=25, y=1.15)
 plt.grid(linestyle='--', axis='y')
 plt.tight_layout()
 #plt.show()
-plt.savefig(path.join(PLOT_DIR, 'highway_UL_carrierRatio.png'))
+plt.savefig(path.join(RESULT_DIR, 'highway_UL_carrierRatio.png'))
 plt.close()
 
 # =====================================================================================
@@ -43,5 +43,5 @@ plt.grid(linestyle='--', axis='y')
 plt.tight_layout()
 
 #plt.show()
-plt.savefig(path.join(PLOT_DIR, 'urban_UL_carrierRatio.png'))
+plt.savefig(path.join(RESULT_DIR, 'urban_UL_carrierRatio.png'))
 plt.close()
