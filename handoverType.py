@@ -270,7 +270,7 @@ def generateTable(datapath,tablepath):
     event_duration_list=event_duration_filter(eventInfo, durationInfo)
     handover_list=handoverList_filter(signalInfo)
     videoType_Table=mergeList(event_duration_list,handover_list)
-    videoType_Table.to_csv(tablepath)
+    videoType_Table.to_csv(tablepath,index=False)
 
 
 if __name__ == '__main__':
@@ -284,3 +284,14 @@ if __name__ == '__main__':
             print("*******************************************")
             print("Creating Table: ", filename)
             generateTable(datapath,tablepath)
+
+    full_table = pd.DataFrame()
+    for file in os.listdir(path.join(TASK3_DIR, "Table\\")):
+        if file.endswith('.csv'):
+            datapath = path.join(TASK3_DIR, "Table\\" + file )
+            data=pd.read_csv(datapath)
+
+            full_table=pd.concat([full_table,data])
+    print("*******************************************")
+    print("Creating full Handover Table")
+    full_table.to_csv(path.join(TASK3_DIR, "Table\\full_HandoverTable.csv"))
