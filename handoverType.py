@@ -273,25 +273,40 @@ def generateTable(datapath,tablepath):
     videoType_Table.to_csv(tablepath,index=False)
 
 
+# if __name__ == '__main__':
+#     for file in os.listdir(path.join(DATA_DIR, "HandOver\\")):
+#         if file.endswith('.csv'):
+#             filename= file.split(".")[0]
+
+#             datapath = path.join(DATA_DIR, "HandOver\\" + filename +".csv")
+#             tablepath = path.join(TASK3_DIR, "Table\\" + filename + "-DurationTable.csv")
+
+#             print("*******************************************")
+#             print("Creating Table: ", filename)
+#             generateTable(datapath,tablepath)
+
+#     full_table = pd.DataFrame()
+#     for file in os.listdir(path.join(TASK3_DIR, "Table\\")):
+#         if file.endswith('.csv'):
+#             datapath = path.join(TASK3_DIR, "Table\\" + file )
+#             data=pd.read_csv(datapath)
+
+#             full_table=pd.concat([full_table,data])
+#     print("*******************************************")
+#     print("Creating full Handover Table")
+#     full_table.to_csv(path.join(TASK3_DIR, "Table\\full_HandoverTable.csv"))
+
+
 if __name__ == '__main__':
-    for file in os.listdir(path.join(DATA_DIR, "HandOver\\")):
+    dataFile=HANDOVER_DATA_DIR
+    resultFile=HANDOVER_RESULT_DIR
+    for file in os.listdir(dataFile):
         if file.endswith('.csv'):
             filename= file.split(".")[0]
 
-            datapath = path.join(DATA_DIR, "HandOver\\" + filename +".csv")
-            tablepath = path.join(TASK3_DIR, "Table\\" + filename + "-DurationTable.csv")
+            datapath = path.join(dataFile, filename +".csv")
+            tablepath = path.join(resultFile, filename + "-processed.csv")
 
             print("*******************************************")
             print("Creating Table: ", filename)
             generateTable(datapath,tablepath)
-
-    full_table = pd.DataFrame()
-    for file in os.listdir(path.join(TASK3_DIR, "Table\\")):
-        if file.endswith('.csv'):
-            datapath = path.join(TASK3_DIR, "Table\\" + file )
-            data=pd.read_csv(datapath)
-
-            full_table=pd.concat([full_table,data])
-    print("*******************************************")
-    print("Creating full Handover Table")
-    full_table.to_csv(path.join(TASK3_DIR, "Table\\full_HandoverTable.csv"))

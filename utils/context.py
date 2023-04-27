@@ -8,6 +8,8 @@ RESULT_DIR = path.join(PROJ_DIR, 'Result')
 TASK1_DIR = path.join(RESULT_DIR, 'task1')
 TASK2_DIR = path.join(RESULT_DIR, 'task2')
 TASK3_DIR = path.join(RESULT_DIR, 'task3')
+HANDOVER_DATA_DIR = path.join(DATA_DIR, 'HandOver-5G')
+HANDOVER_RESULT_DIR = path.join(RESULT_DIR, 'HandOver-5G')
 UTILS_DIR = path.join(PROJ_DIR, 'utils')
 
 sys.path.append(PROJ_DIR)
